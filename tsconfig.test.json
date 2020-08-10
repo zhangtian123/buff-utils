@@ -1,0 +1,11 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "baseUrl": "./",
+        "outDir": "./dist-test",
+        "module": "commonjs",
+        "target": "es2015",
+        "removeComments": true
+    },
+    "include": []
+}
